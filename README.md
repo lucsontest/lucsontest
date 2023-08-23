@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JeanLue
-- 👀 I’m interested in Software Testing
-- 🌱 I’m currently Looking for work
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @jeanlue
+- 👀 I’m a Software Tester with over 4 years of experience
+- 🌱 I’m currently working for Sharp Gaming
+- 💞️ Developing Neural Newtwork for machine learning
+- 📫 How to reach me @jeanlue X@UXLENS
 
 <!---
 lucsontest/lucsontest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
