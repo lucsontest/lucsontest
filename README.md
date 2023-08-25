@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeanLue
-- 👀 I’m a Software Tester with over 4 years of experience
-- 🌱 I’m currently working for Sharp Gaming
+- 👀 I’m a Software Tester.
+- 🌱 I’m currently working on solo projects
 - 💞️ Developing Neural Newtwork for machine learning
 - 📫 How to reach me @jeanlue X@UXLENS
 
